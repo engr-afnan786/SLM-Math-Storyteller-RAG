@@ -1,4 +1,5 @@
 name: Tests
+
 on:
   push:
     branches: [main]
@@ -20,3 +21,4 @@ jobs:
       - name: Run tests
         run: |
           cd tests && python test_math_verifier.py
+          cd tests && python test_coherence.py
