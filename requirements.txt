@@ -1,0 +1,13 @@
+llama-cpp-python
+langchain
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+sympy
+spacy
+numpy
+pyyaml
+gradio>=4.0
+matplotlib

@@ -1,0 +1,36 @@
+# ── Model Settings ──
+# Change "path" to any GGUF file you want to use.
+# backend: "llama_cpp" loads the GGUF directly (no LM Studio needed).
+# backend: "openai" connects to an OpenAI-compatible server (e.g., LM Studio).
+model:
+  path: "models/qwen2.5-1.5b-instruct-q4_k_m.gguf"
+  n_ctx: 2048
+  n_batch: 512
+  n_gpu_layers: 0        # 0 = CPU only, -1 = all layers on GPU
+  temperature: 0.7
+  max_tokens: 200
+  backend: "llama_cpp"   # "llama_cpp" or "openai"
+
+# ── OpenAI backend (only used if model.backend = "openai") ──
+openai:
+  base_url: "http://127.0.0.1:1234/v1"
+  api_key: "lm-studio"
+  model_name: "qwen2.5-1.5b-instruct"
+
+# ── RAG Settings ──
+rag:
+  index_path: "faiss_index"
+  knowledge_path: "Math_Project"
+  top_k: 3
+  chunk_size: 500
+  chunk_overlap: 50
+  embedding_model: "all-MiniLM-L6-v2"
+
+# ── Coherence Tracking ──
+coherence:
+  drift_threshold: 0.4
+
+# ── App Settings ──
+app:
+  default_grade: 3
+  share: false
