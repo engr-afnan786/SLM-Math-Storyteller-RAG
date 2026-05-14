@@ -1,0 +1,19 @@
+ADDING FRACTIONS WITH DIFFERENT DENOMINATORS: To add 1/3 + 1/4, first find a common denominator. The least common multiple of 3 and 4 is 12. Change 1/3 to 4/12 and 1/4 to 3/12. Now add: 4/12 + 3/12 = 7/12. Always make denominators the same before adding or subtracting fractions.
+
+SUBTRACTING FRACTIONS WITH DIFFERENT DENOMINATORS: To subtract 3/4 - 1/3, find a common denominator. The LCM of 4 and 3 is 12. Change 3/4 to 9/12 and 1/3 to 4/12. Now subtract: 9/12 - 4/12 = 5/12. Keep the denominator the same when you subtract the numerators.
+
+MULTIPLYING FRACTIONS: To multiply 2/3 x 3/5, multiply the numerators: 2 x 3 = 6. Multiply the denominators: 3 x 5 = 15. So 2/3 x 3/5 = 6/15. Then simplify: both 6 and 15 divide by 3, so 6/15 = 2/5. When multiplying fractions, you do NOT need a common denominator.
+
+ADDING AND SUBTRACTING DECIMALS: Line up the decimal points, then add or subtract as usual. For 3.5 + 2.7: 5 + 7 = 12, write 2 carry 1, then 3 + 2 + 1 = 6, so 3.5 + 2.7 = 6.2. For 8.3 - 4.6: borrow from the 3 to make 13, then 13 - 6 = 7, and 7 - 4 = 3, so 8.3 - 4.6 = 3.7.
+
+DECIMAL PLACE VALUE: In the number 3.47, the 3 is in the ones place. The 4 is in the tenths place and means 4/10 or 0.4. The 7 is in the hundredths place and means 7/100 or 0.07. So 3.47 = 3 + 0.4 + 0.07. Decimals are another way to write fractions with denominators of 10, 100, or 1000.
+
+VOLUME CONCEPT: Volume is the amount of space inside a 3-dimensional shape. It is measured in cubic units (like cubic centimeters or cm cubed). For a rectangular prism (a box), volume = length x width x height. Imagine filling the box with unit cubes.
+
+VOLUME CALCULATION: A box that is 5 cm long, 3 cm wide, and 4 cm tall has volume = 5 x 3 x 4 = 60 cubic centimeters. You can also think of it as layers: the bottom layer has 5 x 3 = 15 cubes, and there are 4 layers, so 15 x 4 = 60.
+
+MATH VOCABULARY GRADE 5: Simplify means to reduce a fraction to its smallest form by dividing top and bottom by their greatest common factor. 6/8 simplifies to 3/4. Equivalent means equal in value. Common denominator is a number that both denominators can divide into evenly. Mixed number is a whole number plus a fraction, like 2 and 1/3.
+
+WORD PROBLEM DECIMALS: A book costs $4.50 and a notebook costs $1.75. How much do they cost together? Line up the decimals: $4.50 + $1.75. Add: 0 + 5 = 5 cents, 5 + 7 = 12 cents (write 2 carry 1), 4 + 1 + 1 = 6 dollars. Total = $6.25.
+
+WORD PROBLEM FRACTIONS: A cake recipe needs 2/3 cup of sugar for the cake and 1/4 cup for the frosting. How much sugar is needed in total? Find a common denominator: 12. Change 2/3 to 8/12 and 1/4 to 3/12. Add: 8/12 + 3/12 = 11/12 cup of sugar total.

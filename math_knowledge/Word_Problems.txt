@@ -1,0 +1,1 @@
+"Example 1: Sam has 10 apples and gives 3 to Leo. How many are left? (10 - 3 = 7). Example 2: A cake is cut into 6 pieces. If 3 people eat one piece each, what fraction is left? (3/6 or 1/2)."

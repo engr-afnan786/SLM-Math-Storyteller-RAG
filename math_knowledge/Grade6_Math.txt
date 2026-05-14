@@ -1,0 +1,19 @@
+RATIOS CONCEPT: A ratio compares two quantities. If a recipe uses 2 cups of flour for every 3 cups of milk, the ratio of flour to milk is 2 to 3, written 2:3. This means for every 2 parts of flour, you need 3 parts of milk. If you double the recipe, the ratio stays 2:3. Ratios stay the same when you multiply both numbers by the same amount.
+
+SOLVING RATIO PROBLEMS: If 2 apples cost $1, how much do 6 apples cost? Set up the ratio: 2 apples / $1 = 6 apples / x. Cross multiply: 2x = 6, so x = $3. Six apples cost $3. You can also think: 6 apples is 3 times 2 apples, so the cost is 3 times $1 = $3.
+
+PERCENT CONCEPT: Percent means out of 100. The word "percent" comes from "per hundred". 50% means 50 out of 100, which equals 1/2 or 0.5. 25% means 25 out of 100, which equals 1/4 or 0.25. 100% means all of something. To convert a percent to a fraction, put it over 100 and simplify.
+
+CALCULATING PERCENTAGES: To find 25% of 80, convert 25% to 0.25 and multiply: 0.25 x 80 = 20. To find 10% of any number, just divide by 10. 10% of 450 = 450 / 10 = 45. To find 1% of any number, divide by 100. 1% of 300 = 300 / 100 = 3.
+
+EQUATIONS CONCEPT: An equation is a math sentence that says two expressions are equal, like x + 5 = 12. The letter x stands for an unknown number. To solve it, you need to find what number x must be. Think of an equation as a balanced scale. Whatever you do to one side, you must do to the other to keep it balanced.
+
+SOLVING SIMPLE EQUATIONS: To solve x + 5 = 12, subtract 5 from both sides: x = 12 - 5 = 7. Check: 7 + 5 = 12. To solve 3x = 18, divide both sides by 3: x = 18 / 3 = 6. Check: 3 x 6 = 18. Always check your answer by plugging it back in. The goal is to get x alone on one side.
+
+MEAN MEDIAN AND MODE: Mean, median, and mode are ways to describe a set of numbers. The mean is the average: add all numbers and divide by how many there are. The median is the middle number when the numbers are sorted in order. The mode is the number that appears most often. A set can have one mode, more than one, or no mode.
+
+CALCULATING MEAN MEDIAN MODE: For the numbers 4, 6, 8, 6, 3. Mean = (4 + 6 + 8 + 6 + 3) / 5 = 27 / 5 = 5.4. Median: sort them 3, 4, 6, 6, 8. The middle number is 6. Mode: 6 appears most (twice), so the mode is 6. Each measure gives different information about the data.
+
+MATH VOCABULARY GRADE 6: A proportion says two ratios are equal, like 2/3 = 4/6. A rate compares quantities with different units, like 60 miles per hour or $3 per pound. A unit rate is a rate per 1, like $2 per apple. Cross multiply means multiplying the numerator of each fraction by the denominator of the other.
+
+WORD PROBLEM RATIOS: A recipe needs 2 eggs for every 3 cups of flour. How many eggs do you need for 9 cups of flour? Set up a proportion: 2/3 = x/9. Cross multiply: 3x = 18, so x = 6. You need 6 eggs. You can also reason: 9 cups is 3 times 3 cups, so you need 3 times 2 eggs = 6 eggs.

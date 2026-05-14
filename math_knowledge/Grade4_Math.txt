@@ -1,0 +1,19 @@
+MULTI-DIGIT MULTIPLICATION: To multiply 23 x 4, break it into steps. First multiply 4 x 3 ones = 12. Write 2 in the ones place and carry 1 ten. Then multiply 4 x 2 tens = 8 tens, plus 1 carried = 9 tens. So 23 x 4 = 92. Multiply each place value and carry when needed.
+
+MULTIPLYING TWO TWO-DIGIT NUMBERS: To multiply 12 x 13, use partial products. First: 12 x 3 = 36. Then: 12 x 10 = 120. Add them: 36 + 120 = 156. So 12 x 13 = 156. You can also use the standard algorithm by stacking and multiplying digit by digit.
+
+LONG DIVISION: To divide 84 by 7, follow these steps. Divide: how many 7s fit in 8? One, with 1 left over. Multiply: 1 x 7 = 7. Subtract: 8 - 7 = 1. Bring down the 4 to make 14. Divide: how many 7s fit in 14? Two. So 84 / 7 = 12. The steps are: Divide, Multiply, Subtract, Bring down, Repeat.
+
+DIVISION WITH REMAINDERS: Sometimes a number does not divide evenly. For example, 17 / 5. Five goes into 17 three times (5 x 3 = 15), but 17 - 15 = 2 is left over. So 17 / 5 = 3 remainder 2, written as 3 R 2. The remainder is always smaller than the number you are dividing by.
+
+EQUIVALENT FRACTIONS: Equivalent fractions are fractions that look different but represent the same amount. For example, 1/2 = 2/4 = 3/6 = 4/8. You can make an equivalent fraction by multiplying or dividing both the top and bottom by the same number. Multiply 1/2 by 2/2 to get 2/4. Both show the same part of a whole.
+
+COMPARING FRACTIONS: To compare 2/3 and 3/4, make the bottom numbers the same. The common denominator of 3 and 4 is 12. Change 2/3 to 8/12 and 3/4 to 9/12. Since 9/12 is bigger than 8/12, we know 3/4 is bigger than 2/3. With same denominators, just compare the top numbers.
+
+ANGLES: Angles measure how much a shape turns at a corner. A right angle is exactly 90 degrees, like the corner of a square. An acute angle is smaller than 90 degrees, like a sharp point. An obtuse angle is bigger than 90 degrees but less than 180 degrees, like a wide-open book.
+
+MATH VOCABULARY GRADE 4: The numerator is the top number of a fraction, it tells how many parts you have. The denominator is the bottom number, it tells how many equal parts the whole is divided into. In 3/4, the numerator is 3 and the denominator is 4. Equivalent means equal in value.
+
+WORD PROBLEM FRACTIONS: A pizza has 8 slices. If you eat 1/4 of the pizza, how many slices do you eat? To solve: find 1/4 of 8. Divide 8 by 4: 8 / 4 = 2. You eat 2 slices. The word "of" in a fraction problem usually means multiply or divide to find the part.
+
+WORD PROBLEM MULTI-STEP: A baker makes 48 muffins. She puts 6 muffins in each box. Then she sells 3 boxes. How many muffins does she have left? Step 1: Find boxes made: 48 / 6 = 8 boxes. Step 2: Find muffins sold: 3 x 6 = 18 muffins. Step 3: Find muffins left: 48 - 18 = 30 muffins.

@@ -1,0 +1,19 @@
+TWO-DIGIT ADDITION WITHOUT REGROUPING: To add 23 + 14, add the ones first: 3 + 4 = 7 ones. Then add the tens: 20 + 10 = 30. Combine them: 30 + 7 = 37. So 23 + 14 = 37. You can write it vertically by stacking the numbers and adding each column.
+
+TWO-DIGIT ADDITION WITH REGROUPING: When you add 47 + 28, the ones add to 15, which is 10 or more. Write 5 in the ones place and carry the 1 ten to the tens column. Then add the tens: 4 + 2 + 1 carried = 7. So 47 + 28 = 75. Always check if the ones column makes 10 or more.
+
+TWO-DIGIT SUBTRACTION WITHOUT REGROUPING: To subtract 56 - 23, subtract the ones first: 6 - 3 = 3 ones. Then subtract the tens: 50 - 20 = 30. Combine: 30 + 3 = 33. So 56 - 23 = 33. Stack the numbers and subtract each column from top to bottom.
+
+TWO-DIGIT SUBTRACTION WITH REGROUPING: When you subtract 42 - 17, you cannot subtract 7 from 2 in the ones place. Borrow 1 ten from the 4, making it 3. The 2 ones become 12. Now 12 - 7 = 5 ones, and 30 - 10 = 20 tens. So 42 - 17 = 25.
+
+PLACE VALUE TENS AND ONES: In the number 47, the 4 is in the tens place and means 40 (four groups of ten). The 7 is in the ones place and means 7 (seven single ones). So 47 = 40 + 7. Every digit has a value based on where it sits in the number.
+
+PLACE VALUE HUNDREDS: In the number 352, the 3 is in the hundreds place and means 300. The 5 is in the tens place and means 50. The 2 is in the ones place and means 2. So 352 = 300 + 50 + 2. You can use base-10 blocks: 3 flats, 5 rods, and 2 units.
+
+MEASURING LENGTH: You can measure how long something is using a ruler. A small paperclip is about 3 centimeters long. A pencil is about 15 centimeters. When measuring, always line up the start of your object with the zero mark on the ruler. Centimeters (cm) and inches (in) are two common units.
+
+MATH VOCABULARY GRADE 2: Greater than (>) means bigger, like 8 > 3. Less than (<) means smaller, like 3 < 8. Equal to (=) means the same amount. Regroup means trading 10 ones for 1 ten, or 1 ten for 10 ones. The open side of the comparison symbol points to the bigger number.
+
+WORD PROBLEM COMPARISON: Leo has 12 stickers. Mia has 8 stickers. How many more stickers does Leo have than Mia? To solve: compare the two amounts by subtracting. 12 - 8 = 4. Leo has 4 more stickers than Mia. The words "how many more" tell you to subtract.
+
+WORD PROBLEM MEASUREMENT: A ribbon is 45 cm long. Emma cuts off 20 cm. How much ribbon is left? To solve: the ribbon starts at 45 cm and 20 cm is cut off, so subtract. 45 - 20 = 25 cm. There are 25 cm of ribbon left. The word "left" tells you to subtract.

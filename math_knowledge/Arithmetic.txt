@@ -1,0 +1,1 @@
+"Addition is combining two numbers to get a total (e.g., 5 + 3 = 8). Subtraction is taking one number away from another (e.g., 10 - 4 = 6). Multiplication is repeated addition (e.g., 3 groups of 4 is 3 x 4 = 12). Division is splitting a number into equal parts (e.g., 12 divided by 3 is 4)."

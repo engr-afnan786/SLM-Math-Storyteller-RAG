@@ -1,0 +1,1 @@
+To simplify a fraction like 84/112, find the Greatest Common Divisor (GCD). The GCD of 84 and 112 is 28. Divide both the top and bottom by 28 to get 3/4.

@@ -1,0 +1,19 @@
+MULTIPLICATION CONCEPT: Multiplication is a fast way to add equal groups. If you have 4 bags with 3 apples in each bag, instead of adding 3 + 3 + 3 + 3, you can multiply 4 x 3 = 12. The first number tells you how many groups, and the second number tells you how many in each group. The answer is called the product.
+
+MULTIPLICATION FACTS: Key facts to know: 2 x 3 = 6, 4 x 5 = 20, 6 x 7 = 42, 8 x 8 = 64, 9 x 9 = 81. You can use arrays (rows and columns of dots) to see multiplication. A 3 by 4 array has 3 rows of 4 dots, which is 12 dots total: 3 x 4 = 12.
+
+DIVISION CONCEPT: Division means splitting a number into equal groups. If you have 12 cookies and want to share them equally among 3 friends, you divide: 12 / 3 = 4. Each friend gets 4 cookies. Division is the opposite of multiplication. If 3 x 4 = 12, then 12 / 3 = 4. The answer is called the quotient.
+
+DIVISION FACTS: Key facts to know: 12 / 3 = 4, 15 / 5 = 3, 20 / 4 = 5, 18 / 6 = 3, 24 / 8 = 3. You can think of division as: how many groups of this size fit into that number? For 20 / 4 = 5, think: how many groups of 4 fit into 20? The answer is 5.
+
+INTRODUCTION TO FRACTIONS: A fraction shows part of a whole that is divided into equal parts. One half, written 1/2, means 1 out of 2 equal parts. One third, written 1/3, means 1 out of 3 equal parts. One quarter, written 1/4, means 1 out of 4 equal parts. The top number is how many parts you have; the bottom number is how many equal parts the whole is cut into.
+
+FINDING A FRACTION OF A NUMBER: To find 1/2 of 8, divide 8 into 2 equal groups: 8 / 2 = 4. So 1/2 of 8 = 4. To find 1/3 of 12, divide 12 into 3 equal groups: 12 / 3 = 4. So 1/3 of 12 = 4. To find 1/4 of 20: 20 / 4 = 5. So 1/4 of 20 = 5.
+
+PERIMETER: Perimeter is the distance around the outside of a shape. To find it, add up the lengths of all the sides. For a rectangle that is 5 cm long and 3 cm wide: perimeter = 5 + 3 + 5 + 3 = 16 cm. For a square with sides of 4 cm: perimeter = 4 + 4 + 4 + 4 = 16 cm.
+
+AREA: Area is the amount of flat space inside a shape. For a rectangle, multiply length times width. A rectangle that is 5 units long and 3 units wide has area = 5 x 3 = 15 square units. You can also count the unit squares that fit inside the shape.
+
+MATH VOCABULARY GRADE 3: The product is the answer when you multiply, for example the product of 3 and 5 is 15. The quotient is the answer when you divide, for example the quotient of 20 divided by 4 is 5. An array is a grid of rows and columns that shows multiplication. Equal groups means each group has the same number.
+
+WORD PROBLEM MULTIPLICATION: There are 5 bags with 6 marbles in each bag. How many marbles are there in total? To solve: we have 5 equal groups of 6, so multiply. 5 x 6 = 30. There are 30 marbles in total. The words "each bag" and "in total" tell you to multiply.
