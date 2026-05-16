@@ -20,5 +20,5 @@ jobs:
           python -m spacy download en_core_web_sm
       - name: Run tests
         run: |
-          python test_math_verifier.py
-          python test_coherence.py
+          python tests/test_math_verifier.py
+          python tests/test_coherence.py
