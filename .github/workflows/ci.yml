@@ -20,5 +20,5 @@ jobs:
           python -m spacy download en_core_web_sm
       - name: Run tests
         run: |
-          python SLM-Math-Storyteller-RAG/tests/test_math_verifier.py
-          python SLM-Math-Storyteller-RAG/tests/test_coherence.py.py
+          python tests/test_math_verifier.py
+          python tests/test_coherence.py
